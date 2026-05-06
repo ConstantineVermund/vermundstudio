@@ -409,6 +409,7 @@ select,
 .visual-preview strong { font-size: clamp(24px, 3vw, 34px); line-height: 1; letter-spacing: -.055em; max-width: 90%; }
 .visual-preview em { color: var(--text-muted); font-style: normal; font-size: 13px; line-height: 1.45; }
 .visual-preview.auto { background: linear-gradient(135deg, #10151d, #29221d); }
+.visual-preview.cleaning { background: linear-gradient(135deg, #0f1917, #26322d); }
 .visual-preview.tattoo { background: linear-gradient(135deg, #110d12, #32171d); }
 .visual-preview.barber { background: linear-gradient(135deg, #171017, #34251d); }
 .visual-preview.parrot { background: linear-gradient(135deg, #0d1412, #1a2d24); }
