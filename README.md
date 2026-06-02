@@ -1,6 +1,6 @@
 # Vermund Studio — GitHub Pages version
 
-Static website version for GitHub Pages. Updated with the ClearNest Cleaning portfolio project.
+Static website version for GitHub Pages. Updated with a clearer small-business offer, website fixes as a low-risk first step, a Good First Project block and softened portfolio-concept wording.
 
 ## Files
 
@@ -19,7 +19,7 @@ Open `assets/js/main.js` and replace:
 const LINKEDIN_URL = "https://www.linkedin.com/in/constantine-vermund-01baba405/";
 ```
 
-with your real email and LinkedIn profile URL if you need to change them.
+with your real LinkedIn profile URL if you need to change it.
 
 ## GitHub Pages setup
 
